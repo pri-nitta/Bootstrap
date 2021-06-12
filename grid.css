@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: rgb(105, 105, 105);
+}
+
+.row{
+    background-color:lightpink;
+}
+
+.col-md-4{
+    background-color:rgb(212, 106, 122);
+}
+
+.col-md-8{
+    background-color: rgb(250, 227, 230);
+}
